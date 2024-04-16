@@ -1,16 +1,1 @@
-{
-  "tasks": {
-    "1": {
-      "id": 1,
-      "name": "My first task",
-      "completed": false
-    }
-  },
-  "users": {
-    "1": {
-      "id": 1,
-      "username": "Seth",
-      "password": "quack"
-    }
-  }
-}
+{"tasks":{"1":{"id":1,"name":"My first task","completed":false}},"users":{}}
